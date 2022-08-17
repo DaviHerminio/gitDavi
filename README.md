@@ -11,7 +11,7 @@ Olá, sou Davi
 - Git e GitHub
 - JavaScript
 
-## Mus contatos
+## Meus contatos
 
 - Instagram @daviherminioo
 - GitHub @gitDavi
