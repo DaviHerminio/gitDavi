@@ -6,7 +6,7 @@ Olá, sou Davi
 - Ler
 - Game
 
-## Atualmente estudandi
+## Atualmente estudando
 
 - Git e GitHub
 - JavaScript
